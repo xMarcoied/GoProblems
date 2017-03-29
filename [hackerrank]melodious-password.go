@@ -1,3 +1,5 @@
+// Problem : https://www.hackerrank.com/contests/w30/challenges/melodious-password
+// Tags : Implementation
 package main
 import "fmt"
 func createPW(length int, pre string, vowelsPrev bool) {
